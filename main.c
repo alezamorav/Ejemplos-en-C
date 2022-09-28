@@ -7,6 +7,8 @@ INSTRUCCIONES
 En la carpeta donde tengan guardados todos los archivos deben poner en el terminal make uwu
 Para ejecutarlo deben escribir ./uwu
 Para limpiar los archivos de ejecución deben escribir make clean
+
+Por favor no usen nada de este ejemplo literal en sus tareas, se considerará como copia
 */
 
 
